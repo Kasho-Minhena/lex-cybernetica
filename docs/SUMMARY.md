@@ -1,6 +1,6 @@
 # Table of Contents
 
-- [Title Page](README.md)
+- [Lex-Cybernetica](README.md)
 - [Publication and Copyright](front-matter/publication.md)
 - [Reader's Note](front-matter/readers-note.md)
 - [How to Read This Treatise](front-matter/how-to-read.md)
@@ -36,4 +36,3 @@
 - [Table of Provisions](appendices/table-of-provisions.md)
 - [Table of Fictional Cases](appendices/table-of-cases.md)
 - [Restricted Noncommercial License 3.0](appendices/license.md)
-

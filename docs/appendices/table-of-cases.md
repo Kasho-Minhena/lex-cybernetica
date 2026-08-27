@@ -1,6 +1,6 @@
-# Table of Fictional Cases
+# Table of Illustrative Cases
 
-> Every decision listed below is fictional and forms part of the speculative world of Lex-Cybernetica.
+> Every decision listed below is imagined and illustrates how the proposed Lex-Cybernetica framework may operate. None is a real case or present legal authority.
 
 1. *Mira Chen v. Vanguard Neural Logistics Corp.* [2031] CJD 104
 2. *Vance v. Apex Global Courier Services* [2032] CJD 118
@@ -16,4 +16,3 @@
 12. *In re Multi-Node Entity “Alpha”* [2036] CJD 550
 13. *Santos v. Meridian Insight Labs* [2036] CJD 603
 14. *Public Advocate v. CSRA* [2037] CJD 640
-

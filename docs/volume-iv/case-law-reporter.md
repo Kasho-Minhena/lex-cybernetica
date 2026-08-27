@@ -1,6 +1,6 @@
-# VOLUME IV: FICTIONAL CASE LAW REPORTER
+# VOLUME IV: ILLUSTRATIVE CASE LAW REPORTER
 
-> **Reporter notice:** Every decision below is a fictional future precedent created to test the framework. None is a real case or legal authority.
+> **Reporter notice:** Every decision below is an imagined future precedent created to test the proposed framework. None is a real case, enacted precedent, or present legal authority.
 
 ## Chapter 1: Classification, equality, and autonomy
 

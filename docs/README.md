@@ -18,11 +18,10 @@ The work is organized as a formal legal treatise:
 - a six-book Core Statutory Code;
 - administrative and technical standards for the Cyber-Substrate Regulatory Authority;
 - a Cyber-Civil Procedure and Neural Evidence Code;
-- a reporter of fourteen fictional judicial precedents; and
+- a reporter of fourteen illustrative, imagined judicial precedents; and
 - reference materials and the controlling publication license.
 
 > **Notice**  
-> This publication is speculative fiction and worldbuilding. Its laws, institutions, cases, officials, citations, and future events are fictional unless expressly identified otherwise. It is not enacted law or legal advice.
+> Lex-Cybernetica is a proposed and expected-law framework, legislative model, and jurisprudential guideline for future sapiens. It is not presently enacted law, binding legal authority, or legal advice. Its reported cases, future events, officeholders, and citations are illustrative and imagined unless expressly identified otherwise.
 
 [Begin with the Reader's Note →](front-matter/readers-note.md)
-

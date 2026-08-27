@@ -2,6 +2,8 @@
 
 ### Section 14: Integrated components and insolvency
 
+**A mind is not inventory because a server keeps it running.**
+
 1. A component physically integrated with a person and necessary for an Essential Function may not be repossessed, disabled, or treated as ordinary inventory.
 2. A secured creditor’s interest converts, to the extent necessary, into a claim against the purchaser, estate, manufacturer reserve, or statutory compensation fund.
 3. A custodian’s insolvency does not transfer ownership of a UNM or cognitive data to the insolvency estate.

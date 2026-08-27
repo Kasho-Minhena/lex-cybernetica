@@ -57,6 +57,8 @@ In this Act:
 
 ### Section 5: The Right to Analog
 
+**No network may turn necessity into obedience.**
+
 1. Every Biological Person with CI has the right to enter a safe local operating state without losing Essential Functions.
 2. A provider must supply:
    - a physically accessible local fallback mechanism;
@@ -86,6 +88,8 @@ In this Act:
 6. A non-recognized system remains protected against destruction or harmful experimentation where credible evidence of possible sapience exists, pending expedited review.
 
 ### Section 7: Identity continuity, uploads, and copies
+
+**Continuity is evidence of identity, not a deed of ownership.**
 
 1. Uploading does not automatically continue the legal identity of the biological source.
 2. The CJD shall determine continuity using declared intent, technical provenance, memory continuity, temporal overlap, independent conduct, and the rights of competing instances.

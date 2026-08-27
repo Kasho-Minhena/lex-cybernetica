@@ -22,11 +22,11 @@ A person that stores, hosts, transmits, maintains, or controls infrastructure su
 
 ## Cyber-Jurisprudence Division (CJD)
 
-The fictional specialist judicial division responsible for adjudication under Lex-Cybernetica.
+The proposed specialist judicial division responsible for adjudication under Lex-Cybernetica.
 
 ## Cyber-Substrate Regulatory Authority (CSRA)
 
-The fictional independent regulator responsible for licensing, technical standards, incident reporting, inspections, continuity planning, and enforcement.
+The proposed independent regulator responsible for licensing, technical standards, incident reporting, inspections, continuity planning, and enforcement.
 
 ## Cybernetic Integration (CI)
 
@@ -67,4 +67,3 @@ A five-tier technical-risk classification based on functional mediation, remote 
 ## Uploaded Neural Matrix (UNM)
 
 A computationally instantiated cognitive architecture derived substantially from a biological person's recorded neural state.
-

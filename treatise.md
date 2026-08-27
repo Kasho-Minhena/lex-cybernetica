@@ -2,13 +2,15 @@
 
 **The Cybernetic Integration and Human Substrate Protection Act, Administrative Rulebook, Civil Procedure Code, Neural Evidence Code, and Case Law Reporter**
 
-*Published under the fictional authority of the Cyber-Jurisprudence Division of the Global Constitutional Council of Jurists*
+*Presented through the proposed institutional model of the Cyber-Jurisprudence Division of the Global Constitutional Council of Jurists*
 
-> **Fiction and legal-information notice:** This is a speculative worldbuilding work. Every act, regulation, institution, tribunal, official, case, citation, and future event described below is fictional unless expressly identified otherwise. The work presents a hypothetical legal system; it is not enacted law, legal authority, or legal advice.
+> **Proposed-law and legal-information notice:** Lex-Cybernetica is a proposed and expected-law framework, legislative model, and jurisprudential guideline for future sapiens. It is not presently enacted law, binding legal authority, or legal advice. Its reported cases, future events, officeholders, and citations are illustrative and imagined unless expressly identified otherwise.
 
 ## Preamble and design principles
 
 Lex-Cybernetica governs a dual-substrate society without making dignity depend on anatomy. Its central problem is not whether a mind is biological or synthetic, but who may control a sapient system, how responsibility follows control, and what safeguards prevent technological dependence from becoming legal or economic servitude.
+
+**A threshold allocates duties, not dignity. Dependence is a fact to disclose, not a lever to exploit.**
 
 The framework rests on six principles:
 
@@ -80,6 +82,8 @@ In this Act:
 
 ### Section 5: The Right to Analog
 
+**No network may turn necessity into obedience.**
+
 1. Every Biological Person with CI has the right to enter a safe local operating state without losing Essential Functions.
 2. A provider must supply:
    - a physically accessible local fallback mechanism;
@@ -109,6 +113,8 @@ In this Act:
 6. A non-recognized system remains protected against destruction or harmful experimentation where credible evidence of possible sapience exists, pending expedited review.
 
 ### Section 7: Identity continuity, uploads, and copies
+
+**Continuity is evidence of identity, not a deed of ownership.**
 
 1. Uploading does not automatically continue the legal identity of the biological source.
 2. The CJD shall determine continuity using declared intent, technical provenance, memory continuity, temporal overlap, independent conduct, and the rights of competing instances.
@@ -174,6 +180,8 @@ In this Act:
 ## BOOK III: CIVIL, PROPERTY, TORT, AND SUCCESSION LAW
 
 ### Section 14: Integrated components and insolvency
+
+**A mind is not inventory because a server keeps it running.**
 
 1. A component physically integrated with a person and necessary for an Essential Function may not be repossessed, disabled, or treated as ordinary inventory.
 2. A secured creditor’s interest converts, to the extent necessary, into a claim against the purchaser, estate, manufacturer reserve, or statutory compensation fund.
@@ -374,9 +382,9 @@ An adopting jurisdiction may regulate conduct occurring within its territory; sy
 - **Rule 5.4 — Limits:** CNP does not protect communications made to facilitate a future crime or fraud, operational commands independently relevant to ongoing harm, or content placed at issue by the holder, subject to narrow judicial review.
 - **Rule 5.5 — Neutral assessors:** Court-appointed assessors owe duties to the court, must protect confidential information, and may be examined by the parties.
 
-# VOLUME IV: FICTIONAL CASE LAW REPORTER
+# VOLUME IV: ILLUSTRATIVE CASE LAW REPORTER
 
-> **Reporter notice:** Every decision below is a fictional future precedent created to test the framework. None is a real case or legal authority.
+> **Reporter notice:** Every decision below is an imagined future precedent created to test the proposed framework. None is a real case, enacted precedent, or present legal authority.
 
 ## Chapter 1: Classification, equality, and autonomy
 

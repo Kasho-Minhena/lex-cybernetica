@@ -27,7 +27,7 @@ The plain-language notice summarizes this License but does not replace its opera
 Subject to full compliance with this License, Licensor grants You a worldwide, royalty-free, non-exclusive, non-sublicensable license, for the duration of the applicable copyright, to:
 
 1. reproduce reasonable portions of the Licensed Material as necessary to create Adapted Material; and
-2. Share Adapted Material solely as a Noncommercial, unofficial work of speculative fiction or fan commentary.
+2. Share Adapted Material solely as a Noncommercial, unofficial creative work, scholarly exploration, or fan commentary.
 
 This grant covers only rights Licensor has authority to license. Every recipient receives any permission directly from Licensor under the version of this License accompanying the material; You may not grant rights on Licensor’s behalf.
 
@@ -91,7 +91,7 @@ Failure or delay in enforcing a provision is not a waiver. A waiver must be expr
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED MATERIAL IS PROVIDED “AS IS” AND “AS AVAILABLE.” LICENSOR DISCLAIMS ALL EXPRESS, IMPLIED, AND STATUTORY WARRANTIES, INCLUDING WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND ABSENCE OF DEFECTS.
 
-The Licensed Material is speculative fiction and worldbuilding. It does not state current law and is not legal, technical, medical, financial, or professional advice.
+The Licensed Material presents a proposed and expected-law framework, legislative model, and jurisprudential guideline. It is not presently enacted law and is not legal, technical, medical, financial, or professional advice. Illustrative cases, future events, officeholders, and citations are imagined unless expressly identified otherwise.
 
 ## 10. Limitation of liability
 

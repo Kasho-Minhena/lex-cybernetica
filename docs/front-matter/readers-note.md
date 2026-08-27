@@ -8,7 +8,6 @@ This treatise therefore rejects two easy answers. It rejects biological supremac
 
 The Substrate Integration Index is the book's principal regulatory instrument. It classifies functional dependence and technical risk; it does not measure intelligence, citizenship, or moral worth. The remaining volumes build outward from that distinction.
 
-The judicial decisions in Volume IV are deliberately fictional. They operate as legal thought experiments: each case places one or more statutory premises under pressure and demonstrates how a court might reconcile competing rights.
+The judicial decisions in Volume IV are deliberately imagined. They operate as legal thought experiments: each case places one or more statutory premises under pressure and demonstrates how a court might reconcile competing rights.
 
 This first edition is intended to stand on its own as a work of speculative jurisprudence and to serve as the constitutional foundation for the accompanying fiction series.
-

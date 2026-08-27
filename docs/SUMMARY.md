@@ -28,11 +28,11 @@
 
 ## Volume IV — Case Law Reporter
 
-- [Fictional Case Law Reporter](volume-iv/case-law-reporter.md)
+- [Illustrative Case Law Reporter](volume-iv/case-law-reporter.md)
 
 ## Appendices
 
 - [Glossary of Defined Terms](appendices/glossary.md)
 - [Table of Provisions](appendices/table-of-provisions.md)
-- [Table of Fictional Cases](appendices/table-of-cases.md)
+- [Table of Illustrative Cases](appendices/table-of-cases.md)
 - [Restricted Noncommercial License 3.0](appendices/license.md)

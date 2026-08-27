@@ -1,6 +1,6 @@
 # LEX-CYBERNETICA: MASTER SYSTEM SPECIFICATION (MSS)
 **Version:** 1.0.0-Production  
-**Classification:** Proprietary Worldbuilding Framework / Restricted Noncommercial License  
+**Classification:** Proprietary Proposed-Law Framework / Restricted Noncommercial License
 
 ---
 

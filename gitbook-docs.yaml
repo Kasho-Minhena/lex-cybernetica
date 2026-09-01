@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Lex-Cybernetica
+  structure:
+    - type: space
+      key: lex-cybernetica-docs
+      title: Lex-Cybernetica
+      path: /
+      default: true
+      content:
+        directory: ./docs

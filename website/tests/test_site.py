@@ -14,7 +14,7 @@ VERIFIED_EXTERNAL={
 'https://duck-14.gitbook.io/lex-cybernetica',
 'https://zenodo.org/records/22234758',
 'https://doi.org/10.5281/zenodo.22234758',
-'https://www.linkedin.com/feed/update/urn:li:ugcPost:7500589433096794115/?actorCompanyId=143609964',
+'https://www.linkedin.com/company/143609964/admin/dashboard/',
 'https://github.com/Kasho-Minhena/lex-cybernetica/blob/main/docs/SUMMARY.md',
 'https://github.com/Kasho-Minhena/the-measure-of-mira-chen',
 'https://github.com/Kasho-Minhena/seven-minutes',

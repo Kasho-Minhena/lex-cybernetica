@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this work, cite the Version 2.0 Zenodo record once published."
-title: "Lex-Cybernetica Version 2.0: Provisional Legal Framework for Cybernetic Integration, Future Persons and Synthetic Society"
+message: "If you use this work, cite the Version 3.0 Zenodo record once assigned."
+title: "Lex-Cybernetica Version 3.0: Consolidated Future-Law Framework for Cybernetic Integration, eSapiens, Future Persons and Synthetic Society"
 type: generic
 authors:
   - family-names: "Minhena"
     given-names: "Kasho"
-version: "2.0.0"
-date-released: "2026-09-01"
+version: "3.0.0"
+date-released: "2026-09-08"
 license: "LicenseRef-All-Rights-Reserved"

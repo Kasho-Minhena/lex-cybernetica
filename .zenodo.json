@@ -1,5 +1,5 @@
 {
-  "title": "Lex-Cybernetica Version 2.0: Provisional Legal Framework for Cybernetic Integration, Future Persons and Synthetic Society",
+  "title": "Lex-Cybernetica Version 3.0: Consolidated Future-Law Framework for Cybernetic Integration, eSapiens, Future Persons and Synthetic Society",
   "upload_type": "publication",
   "publication_type": "book",
   "creators": [
@@ -7,26 +7,31 @@
       "name": "Kasho Minhena"
     }
   ],
-  "description": "Lex-Cybernetica Version 2.0 is a provisional legal and philosophical framework for cybernetic integration, future persons and synthetic society. It consolidates 72 working-doctrine provisions covering personhood, SII, Essential Functions, Material Control, Right to Analog, identity and continuity, Genesis and reproduction, parentage, sex/gender/reproductive configuration, embodiment, forks and successor persons, cognitive rights, evidence, criminal/corporate responsibility, jurisdiction and institutional safeguards. It is a consultation draft, not enacted law.",
+  "description": "Lex-Cybernetica Version 3.0 is the Founder-Frozen publication edition of a proposed future-law framework and legislative guideline for cybernetic integration, eSapiens, future Persons and synthetic society. Version 3.0 contains 20 Parts, 100 Articles and Annexes A–H, including Personhood recognition and interim protection, the five-tier Substrate Integration Index (SII) v1.0, Essential Functions and Material Control, local functional autonomy, provider continuity and insolvency duties, cognitive integrity and Neural Trespass, Genesis and modular parentage, identity and continuity, fork/merge/restoration, civic anti-amplification, cross-border Administrative Anchors, remedies, Taxonomy Escape and evidence/reality/horizon controls. It is not enacted law or legal advice.",
   "keywords": [
     "Lex-Cybernetica",
     "future law",
     "cybernetic integration",
-    "synthetic persons",
     "eSapiens",
+    "future persons",
+    "synthetic persons",
     "personhood",
     "SII",
+    "substrate integration index",
+    "cognitive rights",
+    "neural trespass",
+    "Genesis",
     "identity",
     "continuity",
-    "Genesis",
-    "reproduction",
-    "successor persons",
+    "fork",
+    "restoration",
+    "AI governance",
     "bioethics",
-    "AI governance"
+    "private international law"
   ],
-  "version": "2.0.0",
-  "publication_date": "2026-09-01",
+  "version": "3.0.0",
+  "publication_date": "2026-09-08",
   "language": "eng",
   "access_right": "open",
-  "notes": "ISBN pending approval; DOI to be assigned by Zenodo. All rights reserved; choose/add a custom All Rights Reserved licence in the Zenodo deposit form."
+  "notes": "Founder-Frozen Publication Edition. Copyright © 2026 Kasho Minhena. All rights reserved. This is a proposed future-law framework, not enacted law. ISBN pending/only add if actually assigned. Create as a new version of the existing Lex-Cybernetica Zenodo record and preserve Version 2.0."
 }

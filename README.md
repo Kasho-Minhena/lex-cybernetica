@@ -1,30 +1,33 @@
-# Lex-Cybernetica Version 2.0
+# Lex-Cybernetica Version 3.0
 
-## Provisional Legal Framework for Cybernetic Integration, Future Persons and Synthetic Society
+## Consolidated Future-Law Framework for Cybernetic Integration, eSapiens, Future Persons and Synthetic Society
 
-**Version:** 2.0.0  
-**Status:** Consultation Draft / Working Legal Framework  
+**Version:** 3.0.0  
+**Status:** Founder-Frozen Publication Edition  
+**Freeze date:** 8 September 2026  
 **Author:** Kasho Minhena  
-**ISBN:** Pending approval — not yet assigned  
-**DOI:** To be assigned by Zenodo  
+**DOI:** Pending Version 3.0 Zenodo assignment  
 
 Copyright © 2026 Kasho Minhena. All rights reserved.
 
-Lex-Cybernetica is a proposed future-law framework addressing cybernetic integration, synthetic/personhood questions, identity and continuity, SII, Genesis and reproduction, successor persons, sex/gender/reproductive configuration, embodiment, cognitive rights, evidence, control, jurisdiction and future institutions.
+Lex-Cybernetica is a proposed future-law framework and legislative guideline. It is not enacted law, legal advice, medical advice, or a certification standard.
 
-This repository is **not an open-source licence grant**. See [COPYRIGHT.md](COPYRIGHT.md) and [TERMS-OF-USE.md](TERMS-OF-USE.md).
+Version 3.0 contains **20 Parts, 100 Articles and Annexes A–H**. It converts the Version 2.0 consultation draft into a more operational framework while preserving Personhood ≠ SII, creation ≠ ownership, technical classification ≠ dignity, and Genesis ≠ automatic Person creation.
 
-## Read
+## Read Version 3.0
 
-- Full single-file edition: [`Lex-Cybernetica-v2.0.md`](Lex-Cybernetica-v2.0.md)
-- GitBook-ready chapters: [`docs/`](docs/)
+- Full Markdown edition: [`Lex-Cybernetica-v3.0.md`](Lex-Cybernetica-v3.0.md)
+- GitBook-ready publication: [`docs/`](docs/)
 - Table of contents: [`docs/SUMMARY.md`](docs/SUMMARY.md)
-- Publication PDF: `Lex-Cybernetica-v2.0.pdf`
+
+## Historical Version 2.0
+
+Version 2.0 files and Git history should remain preserved as the prior consultation baseline.
 
 ## Citation
 
-Minhena, Kasho. *Lex-Cybernetica Version 2.0: Provisional Legal Framework for Cybernetic Integration, Future Persons and Synthetic Society*. Version 2.0.0, 2026. Cite the Zenodo version DOI after publication.
+Minhena, Kasho. *Lex-Cybernetica Version 3.0: Consolidated Future-Law Framework for Cybernetic Integration, eSapiens, Future Persons and Synthetic Society*. Version 3.0.0, 2026. Add the Version 3.0 DOI after Zenodo assigns it.
 
-## Legal status
+## Rights
 
-This is a proposed framework and consultation draft. It is not enacted law or legal/medical advice. Provisions remain subject to external expert review, Founder ratification and future versions.
+This repository is not an open-source licence grant. Public access permits reading, discussion and citation subject to applicable law. Copyright © 2026 Kasho Minhena. All rights reserved.

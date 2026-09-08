@@ -1,71 +1,59 @@
-# Part II — SII, Essential Functions, Autonomy and Reclassification
+# PART II — PERSONHOOD, RECOGNITION AND INTERIM PROTECTION
 
+## Article 6 — Personhood separate from technical classification
 
-## WD-07 — Substrate Integration Index - SII
+1. Personhood is a legal status distinct from biology, embodiment, appearance, origin, intelligence score, product class and SII.
+2. No SII tier, including SII-5, automatically confers or denies Personhood.
+3. A jurisdiction MUST NOT deny Personhood on the basis that an entity is synthetic, distributed, restored, copied, forked, non-biological or dependent on external infrastructure.
+4. A jurisdiction MUST NOT grant Personhood solely because an entity is sophisticated, expensive, human-like, self-describing or technically classified at a high SII tier.
 
-**Status:** PROVISIONAL BASELINE - G1 RATIFICATION PENDING
+## Article 7 — Personhood recognition procedure
 
-SII is a technical governance classification of a defined configuration and the dependence, control exposure and safeguards it creates. Organic/synthetic composition may be recorded where meaningful but is not the sole determinant.
+1. A Personhood claim MUST be determined by a competent authority under a substrate-neutral process.
+2. The authority MUST consider the best available evidence of:
+   a. sustained self-directed agency;
+   b. continuity of an integrated cognitive or identity process over time;
+   c. stable or developing preferences, interests or goals;
+   d. ability to receive information and respond in a manner attributable to the entity;
+   e. credible evidence of legally relevant interests, benefit, deprivation, impairment or harm;
+   f. independence from hidden remote control, replay, scripted simulation or another Person's direct projection;
+   g. provenance sufficient to identify the entity under examination.
+3. No single factor is conclusive in every case.
+4. Biological resemblance, human appearance, genome, model weights, cryptographic key, memory match or substrate ownership MUST NOT be treated as conclusive by itself.
+5. The absence of a scientifically available direct test of subjective consciousness MUST NOT, by itself, establish or defeat Personhood. The authority MUST state what is directly observed, what is inferred and what remains scientifically unresolved.
+6. The authority MUST give reasons and identify material uncertainty.
+7. Where the evidence cannot responsibly support recognition or rejection, the authority MUST use the interim-protection and Taxonomy Escape rules rather than treating uncertainty as automatic non-Personhood.
 
+## Article 8 — Interim Personhood Protection
 
-## WD-08 — SII is configuration-specific
+1. An entity becomes a **Personhood claimant** when credible evidence raises a serious, non-frivolous Personhood or same-Person continuity claim.
+2. From the time the Article 8 threshold is crossed, a custodian or controller with notice of the claim MUST preserve reasonably preservable continuity-critical evidence pending determination of any request for broader interim protection and MUST NOT deliberately destroy, conceal or materially alter such evidence for the purpose of defeating the claim.
+3. Where there is a material risk of irreversible harm before final determination, a Personhood claimant MUST NOT be:
+   a. owned or sold as a Person;
+   b. deliberately destroyed, erased or irreversibly cognitively altered except under a lawful emergency rule necessary to prevent serious harm;
+   c. copied, forked or materially reconfigured merely to defeat the claim;
+   d. deprived of continuity-critical evidence without lawful preservation review.
+4. Interim protection does not establish final Personhood.
+5. An interim order MUST be no broader or longer than necessary and MUST be subject to prompt review.
+6. The authority MAY require reasonable security, cost-sharing or public support for preservation where necessary, but inability to fund preservation MUST NOT by itself decide Personhood.
+7. Where several claimants compete for genuinely scarce continuity resources, Article 45 applies.
+8. Unless a provision inherently requires final Personhood recognition, references to a **Person** in Parts IV and VI through XI include a Personhood claimant to the limited extent necessary to prevent irreversible destruction, cognitive exploitation, coercive dependency, discriminatory treatment based on unresolved status, loss of continuity-critical evidence, or defeat of the pending claim. This limited extension does not establish final Personhood or any downstream status that depends on final recognition.
 
-**Status:** PROVISIONAL BASELINE - G1 RATIFICATION PENDING
+## Article 9 — Burden, representation and evidence in Personhood proceedings
 
-An SII finding binds to the defined configuration at the time assessed. A material change in software authority, remote dependence, authentication, fallback, Essential Function availability or Material Control may require reassessment even if hardware is unchanged. Reclassification must be transparent and reviewable.
+1. The claimant bears the initial burden of producing credible evidence sufficient to cross the Article 8 threshold.
+2. After that threshold is crossed, the party seeking irreversible destruction, alteration, disposal or treatment as ordinary property bears the burden of showing lawful authority and necessity for that step.
+3. Final recognition is determined on the balance of reliable evidence unless the implementing jurisdiction adopts another protective standard consistent with this Part.
+4. A claimant that cannot effectively participate MUST have access to independent representation or advocacy proportionate to the stakes.
+5. Technical evidence controlled by a creator, provider, custodian or state MUST be preserved and disclosed to the minimum extent necessary for fair adjudication, subject to security, privacy and legitimate trade-secret controls.
+6. Deliberate concealment, destruction or manipulation of material continuity evidence MAY support an adverse evidentiary inference, without automatically proving Personhood.
 
+## Article 10 — Effect of recognition and non-recognition
 
-## WD-09 — Five-tier working structure
+1. Recognition establishes legal Personhood prospectively and, where continuity requires, may establish continuity with an earlier legal Person subject to Parts XV and XVI.
+2. Recognition does not automatically determine citizenship, domicile, parentage, marriage, ownership, criminal liability, contractual succession, inheritance, voting rights or SII.
+3. Non-recognition does not automatically determine that every associated substrate, model, record or process is freely disposable property; ordinary property, privacy, contract, evidence and safety law may still apply.
+4. A material change in evidence MAY justify reconsideration under a defined review process.
+5. Recognition decisions SHOULD be portable across jurisdictions through lawful recognition mechanisms, but one jurisdiction's recognition does not create universal jurisdiction.
 
-**Status:** PROVISIONAL BASELINE - G1 RATIFICATION PENDING
-
-Pending SII 1.0 redesign, the existing SII-1 through SII-5 vocabulary remains available as a provisional working structure. SII-5 identifies a fully post-biological configuration; it does not by itself confer or deny personhood.
-
-
-## WD-10 — Essential Function
-
-**Status:** PROVISIONAL BASELINE - G1 RATIFICATION PENDING
-
-An Essential Function is a bodily, cognitive, communicative, identity-bearing or materially life-participating function whose interruption creates material risk to life, health, safety, autonomy, continuity or ordinary social/civic participation.
-
-
-## WD-11 — Material Control
-
-**Status:** PROVISIONAL BASELINE - G1 RATIFICATION PENDING
-
-Material Control is practical or system-level capacity, whether exercised or realistically exercisable, to initiate, prevent, redirect, substantially constrain, terminate or reassign authority over a relevant bodily, cognitive, communicative or identity-bearing function.
-
-
-## WD-12 — Right to Analog
-
-**Status:** PROVISIONAL BASELINE - G1 RATIFICATION PENDING
-
-A Person with technologically mediated Essential Functions has a proposed right to meaningful, technically feasible local or non-network-dependent authority and choice over those functions, subject to proportionate safety constraints. The right is not a duty to disconnect and is not an absolute guarantee of zero degradation.
-
-
-## WD-13 — Analog Fallback State
-
-**Status:** PROVISIONAL BASELINE - G1 RATIFICATION PENDING
-
-An Analog Fallback State is a tested local operating state that preserves defined Essential Functions for a specified duration and failure envelope without compulsory dependence on the unavailable external service. A fallback that requires the failed provider’s fresh authority is fallback in name only.
-
-
-## WD-14 — Consent
-
-**Status:** PROVISIONAL BASELINE - G1 RATIFICATION PENDING
-
-Consent to a device, service, employment arrangement or coordinated activity does not automatically authorise materially different control over Essential Functions. Material changes in control or dependence require proportionate disclosure and, where feasible, granular and revocable choice.
-
-
-## WD-54 — SII at genesis
-
-**Status:** PROVISIONAL
-
-A newly created Person may begin at any SII level supported by the actual configuration. SII describes technological integration, dependence, control and resilience; it never describes the worth of the newborn or newly created Person.
-
-
-## WD-55 — SII changes after genesis
-
-**Status:** PROVISIONAL
-
-Growth, implants, prosthetics, synthetic organs, software authority, network dependence, embodiment migration and reproductive technologies may trigger SII reassessment only through configuration change, not through age, lineage, sex, gender or parentage alone.
+---

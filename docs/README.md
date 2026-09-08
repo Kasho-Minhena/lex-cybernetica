@@ -1,36 +1,40 @@
-# Lex-Cybernetica Version 2.0
+# LEX-CYBERNETICA — VERSION 3.0
 
-## Provisional Legal Framework for Cybernetic Integration, Future Persons and Synthetic Society
+## Consolidated Future-Law Framework for Cybernetic Integration, eSapiens, Future Persons and Synthetic Society
 
-**Consultation Draft / Working Legal Framework**  
-**Version:** 2.0.0  
-**Publication date:** 1 September 2026  
+**Version:** 3.0.0 — Founder-Frozen Publication Edition  
+**Date:** 8 September 2026  
 **Author:** Kasho Minhena  
-**ISBN:** Pending approval — not yet assigned  
-**DOI:** To be assigned by Zenodo on publication  
+**Status:** Founder-frozen for publication on 8 September 2026; proposed future-law framework; not enacted law  
 **Rights:** Copyright © 2026 Kasho Minhena. All rights reserved.
 
-> **Legal-status notice:** Lex-Cybernetica is a proposed future-law framework and legislative guideline. It is not enacted law, legal advice, medical advice, a certification standard, or a statement that any jurisdiction has adopted these rules. Provisions remain subject to Founder ratification, external expert review, comparative-law research, scientific/technical validation and future scenario testing.
+> **Legal-status notice.** Lex-Cybernetica is a proposed future-law framework and legislative guideline. It is not enacted law, legal advice, medical advice, a certification standard, or a statement that any jurisdiction has adopted these provisions. It is designed to provide a coherent legal architecture that jurisdictions may study, adapt, reject, enact in part, or use as a basis for future legislation. Technical and scientific propositions remain subject to evidence, physical reality, and future validation. Jurisdiction-specific implementation remains necessary.
 
-## Version 2.0 purpose
+> **Founder freeze notice.** On 8 September 2026, the Founder approved and froze this Version 3.0 text for publication. The freeze fixes the substantive text of Articles 1–100 and Annexes A–H for this publication edition. Any later substantive change requires a separately versioned amendment or successor edition.
 
-Version 2.0 consolidates the surviving provisional Working Doctrine v0.2 with the Genesis, Reproduction and Successor Persons supplement. It expands Lex-Cybernetica from cybernetic integration and control into a wider legal architecture for future Persons: identity and continuity across substrates; biological and synthetic genesis; parentage and developmental status; sex, gender, reproductive configuration and embodiment; forks, copies, restoration and successor persons; cognitive rights; person-essential substrate; criminal and corporate responsibility; jurisdiction; evidence; and institutional safeguards.
+## Version 3.0 purpose
 
-## Governing interpretive principles
+Version 3.0 converts the principle-heavy Version 2.0 consultation draft into a more operational legal framework. It preserves the central Lex-Cybernetica spine—Personhood is separate from SII; creation does not create ownership; identity follows the Person rather than a permanent body; Genesis does not automatically create a Person; and technical classification must not become a proxy for dignity or legal worth—while adding procedure, burden, evidence, review, interim protection, provider continuity, fork and restoration rules, civic anti-amplification, cross-border anchoring, and remedies.
 
-1. **Personhood is separate from SII.** SII describes a configuration; it does not rank dignity, humanity, intelligence or legal worth.
-2. **Substrate parity.** Technical or biological difference may justify objectively necessary safeguards, not lesser dignity.
-3. **Identity follows the Person, not a permanent body or device.** Embodiment and substrate can change without automatically changing legal identity.
-4. **Genesis does not automatically equal Person creation.** Birth, cloning, copying, synthetic creation, restoration and forking require distinct continuity/personhood analysis.
-5. **Creation does not create ownership.** A recognised Person cannot be owned merely because another actor created, financed, trained, gestated, hosted or designed components used in that Person's genesis.
-6. **Sex characteristics, reproductive capability, gender identity, embodiment, genesis method and SII are separate dimensions.** One must not be mechanically inferred from another.
-7. **Measurement is separated from downstream decisions.** SII must not mechanically determine healthcare, insurance, employment, subsidy, licensing, citizenship or civic permissions.
-8. **No silent Canon changes.** This Version 2.0 is a consultation draft until expressly ratified.
+Version 3.0 incorporates the recovered five-tier SII Version 1.0 architecture. It also integrates the Founder-approved WP10 policy directions POL-01 through POL-08. Scenario tests, including the *Tales from Lex-Cybernetica* novels and *The Last Node*, remain scenario evidence only and are not precedent.
 
-## Source and provenance status
+## Reading rule
 
-The historical Treatise is retained as a foundational source. Books One through Four of *Tales from Lex-Cybernetica* operate as scenario tests rather than binding precedent. Working Doctrine v0.2 Audit Draft 0.4 supplied WD-01 through WD-32. WP4E and Working Doctrine v0.3 supplied WD-33 through WD-72. Rejected and deferred propositions remain part of the legislative history rather than being silently deleted.
+In this framework:
 
-## Navigation
+- **MUST** states a mandatory duty.
+- **MUST NOT** states a prohibition.
+- **IS ENTITLED TO** states a protected right.
+- **MAY** grants lawful discretion.
+- **IS PRESUMED** creates a rebuttable presumption.
+- **SUBJECT TO** states a controlled limitation.
+- **SHOULD / SHOULD NOT** states a strong recommended default for an implementing jurisdiction, not a directly mandatory duty unless enacted as such.
+- **Person** means a legal Person recognised under applicable law or under a Lex-Cybernetica recognition process.
+- **Personhood claimant** means an entity whose Personhood or continuity claim is unresolved but has crossed the interim-protection threshold in Article 8.
+- References to a competent authority include a court, tribunal, regulator or other body lawfully empowered by the implementing jurisdiction.
 
-Use the table of contents in `SUMMARY.md` to read the Parts and Annexes.
+---
+
+## Read the framework
+
+Use the table of contents to navigate Parts I–XX and Annexes A–H.

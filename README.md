@@ -6,7 +6,7 @@
 **Status:** Founder-Frozen Publication Edition  
 **Freeze date:** 8 September 2026  
 **Author:** Kasho Minhena  
-**DOI:** Pending Version 3.0 Zenodo assignment  
+**DOI:** DOI: 10.5281/zenodo.22660616  
 
 Copyright © 2026 Kasho Minhena. All rights reserved.
 

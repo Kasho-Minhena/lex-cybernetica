@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://lex-cybernetica.com/sitemap.xml

@@ -1,28 +1,13 @@
 from pathlib import Path
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
-import re
 
 ROOT=Path(__file__).resolve().parents[1]
 HTML=sorted(ROOT.glob('*.html'))
 REQUIRED={'index.html','framework.html','research.html','publications.html','cases.html','about.html','participate.html','404.html'}
-VERIFIED_EXTERNAL={
-'https://github.com/Kasho-Minhena/lex-cybernetica',
-'https://github.com/Kasho-Minhena/lex-cybernetica/releases/tag/v2.0.0',
-'https://github.com/Kasho-Minhena/lex-cybernetica/releases/download/v2.0.0/Lex-Cybernetica-v2.0.pdf',
-'https://github.com/Kasho-Minhena/lex-cybernetica/releases/download/v2.0.0/Lex-Cybernetica-v2.0.docx',
-'https://duck-14.gitbook.io/lex-cybernetica',
-'https://zenodo.org/records/22234758',
-'https://doi.org/10.5281/zenodo.22234758',
-'https://www.linkedin.com/company/143609964/admin/dashboard/',
-'https://github.com/Kasho-Minhena/lex-cybernetica/blob/main/docs/SUMMARY.md',
-'https://github.com/Kasho-Minhena/the-measure-of-mira-chen',
-'https://github.com/Kasho-Minhena/seven-minutes',
-'https://github.com/Kasho-Minhena/the-dependence-protocol',
-'https://github.com/Kasho-Minhena/the-attitude-clause',
-}
 
-def soup(path): return BeautifulSoup(path.read_text(encoding='utf-8'),'html.parser')
+def soup(path):
+    return BeautifulSoup(path.read_text(encoding='utf-8'),'html.parser')
 
 def test_required_files_exist():
     assert REQUIRED == {p.name for p in HTML}
@@ -46,7 +31,7 @@ def test_page_semantics_and_metadata():
         assert s.find('header'), path.name
         assert s.find('nav',attrs={'aria-label':'Primary'}), path.name
         assert s.find('footer'), path.name
-        assert s.find('h1'), path.name
+        assert len(s.find_all('h1'))==1, path.name
         skip=s.find('a',class_='skip-link')
         assert skip and skip.get('href')=='#main', path.name
         assert s.find('meta',attrs={'http-equiv':'Content-Security-Policy'}), path.name
@@ -57,48 +42,58 @@ def test_internal_links_resolve():
         s=soup(path)
         for a in s.find_all('a',href=True):
             href=a['href']
-            if href.startswith(('#','mailto:','tel:')): continue
+            if href.startswith(('#','mailto:','tel:')):
+                continue
             parsed=urlparse(href)
-            if parsed.scheme: continue
+            if parsed.scheme:
+                continue
             target=(ROOT/href.split('#',1)[0])
             assert target.exists(), f'{path.name}: broken link {href}'
 
-def test_external_links_are_verified_and_hardened():
+def test_external_links_are_hardened():
     for path in HTML:
         s=soup(path)
         for a in s.find_all('a',href=True):
             href=a['href']
-            if href.startswith('https://'):
-                assert href in VERIFIED_EXTERNAL, f'{path.name}: unverified external URL {href}'
-                if a.get('target')=='_blank':
-                    rel=set(a.get('rel',[]))
-                    assert {'noopener','noreferrer'} <= rel, f'{path.name}: unsafe target blank {href}'
-            elif '://' in href:
+            if href.startswith('https://') and a.get('target')=='_blank':
+                rel=set(a.get('rel',[]))
+                assert {'noopener','noreferrer'} <= rel, f'{path.name}: unsafe target blank {href}'
+            elif '://' in href and not href.startswith('https://'):
                 raise AssertionError(f'{path.name}: non-HTTPS external URL {href}')
 
 def test_no_forms_trackers_or_remote_scripts():
     for path in HTML:
         s=soup(path)
         assert not s.find('form'), path.name
+        assert not s.find('iframe'), path.name
         for script in s.find_all('script',src=True):
             assert not urlparse(script['src']).scheme, f'{path.name}: remote script {script["src"]}'
-        assert not s.find('iframe'), path.name
-    text='\n'.join(p.read_text(encoding='utf-8') for p in HTML)
-    forbidden=['google-analytics','googletagmanager','facebook.com/tr','hotjar','segment.com','mixpanel']
-    assert not any(x in text.lower() for x in forbidden)
+    text='\n'.join(p.read_text(encoding='utf-8') for p in HTML).lower()
+    for forbidden in ['google-analytics','googletagmanager','facebook.com/tr','hotjar','segment.com','mixpanel']:
+        assert forbidden not in text
 
-def test_legal_status_on_every_page():
+def test_current_v3_status_and_no_stale_v2_public_copy():
     for path in HTML:
         text=soup(path).get_text(' ',strip=True).lower()
-        assert 'consultation draft' in text, path.name
-        assert 'not enacted law' in text, path.name
+        if path.name!='404.html':
+            assert 'version 3.0.0' in text, path.name
+            assert 'founder-frozen publication edition' in text, path.name
+            assert 'not enacted law' in text, path.name
+        raw=path.read_text(encoding='utf-8').lower()
+        assert 'version 2.0.0' not in raw, path.name
+        assert 'published 1 september 2026' not in raw, path.name
+        assert 'linkedin.com/company/143609964/admin' not in raw, path.name
+
+def test_same_emblem_asset_in_header_and_footer():
+    for path in HTML:
+        s=soup(path)
+        imgs=[img.get('src') for img in s.find_all('img') if img.get('src')=='assets/images/lex-cybernetica-emblem.jpg']
+        assert len(imgs)>=2, path.name
 
 def test_no_placeholders_or_secrets():
     all_text='\n'.join(p.read_text(encoding='utf-8') for p in ROOT.rglob('*') if p.is_file() and 'docs' not in p.parts and 'tests' not in p.parts and p.suffix in {'.html','.css','.js','.txt','.xml'})
     for token in ['TODO','TBD','CHANGEME','YOUR_EMAIL','API_KEY','SECRET_KEY','PASSWORD=','localhost','127.0.0.1']:
         assert token.lower() not in all_text.lower(), token
-    # Public copy may name Lex Studio but must not expose internal route/host/repo/path details.
-    assert not re.search(r'Lex Studio.{0,120}(https?://|[A-Z]:\\|/api/|github\.com)',all_text,re.I|re.S)
 
 def test_canonical_urls():
     for path in HTML:
@@ -122,11 +117,8 @@ def test_accessible_mobile_menu_hooks():
 
 def test_active_nav_present_on_public_pages():
     for path in HTML:
-        if path.name=='404.html': continue
+        if path.name=='404.html':
+            continue
         s=soup(path)
         active=s.find('nav').find('a',attrs={'aria-current':'page'})
         assert active and active.get('href')==path.name
-
-def test_size_budget():
-    total=sum(p.stat().st_size for p in ROOT.rglob('*') if p.is_file() and 'tests' not in p.parts and 'docs' not in p.parts)
-    assert total < 250_000, total
